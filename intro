@@ -1,0 +1,9 @@
+This repository contains a simple Kafka Producer and Consumer application. It demonstrates how to send and receive messages using Apache Kafka.
+Kafka Producer that publishes messages to a topic
+Kafka Consumer that listens and processes messages
+Configurable Kafka settings (broker, topic, group id)
+Easy to extend for real-world use cases
+
+Java / Spring Boot
+Apache Kafka
+Maven / Gradle
